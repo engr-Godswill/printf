@@ -5,7 +5,7 @@
  * @args: arguments
  * @format: a string character
  *
- * Return: ...
+ * Return: count on sucess
  */
 int _main_printf(va_list args, const char *format)
 {
