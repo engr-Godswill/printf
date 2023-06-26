@@ -21,7 +21,7 @@ A character that specifies the type of conversion to be applied. The conversion 
 
 This is how it should work...
 
-#include "holberton.h"
+#include "main.h"
 
 _printf("ALX is the Best"); // the output will be: ALX is the Best
 
