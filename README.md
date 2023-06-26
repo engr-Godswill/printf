@@ -19,7 +19,7 @@ A character that specifies the type of conversion to be applied. The conversion 
 * s: The const char * argument is expected to be a pointer to an array of character type (pointer to a string). Characters from the array are written up to (but not including) a terminating null byte ('\0').
 * %: A '%' is written. No argument is converted. The complete conversion specification is '%%'.
 
-This is how it should work...
+#### This is how it should work...
 
 #include "main.h"
 
